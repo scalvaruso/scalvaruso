@@ -26,10 +26,10 @@ Simon</p>
 
 | <div align='center'> Programming Skills </div> | <div align='center'> VCS </div> | <div align='center'> Soft Skills </div> |
 | ----- | ----- | ----- |
-| ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&&logo=python&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GIT-informational?style=for-the-badge&&logo=Git&logoColor=white&color=01E8C8)  | ![](https://img.shields.io/badge/PS-Problem_Solving-informational?style=for-the-badge&&logo=Trino&logoColor=white&color=magenta)
-| ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=cplusplus&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GitHub-informational?style=for-the-badge&&logo=GitHub&logoColor=white&color=01E8C8) | ![](https://img.shields.io/badge/AS-Analytical_Skills-informational?style=for-the-badge&&logo=futurelearn&logoColor=white&color=magenta)
-| ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&&logo=HTML5&logoColor=white&color=FD207D) || ![](https://img.shields.io/badge/CT-Critical_Thinking-informational?style=for-the-badge&&logo=codereview&logoColor=white&color=magenta)
-| ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&&logo=CSS3&logoColor=white&color=FD207D) | | ![](https://img.shields.io/badge/TP-Team_Player-informational?style=for-the-badge&&logo=Draugiem.lv&logoColor=white&color=magenta)
+| ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&&logo=python&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GIT-informational?style=for-the-badge&&logo=Git&logoColor=white&color=01E8C8)  | ![](https://img.shields.io/badge/PS-Problem_Solving-informational?style=for-the-badge&&logo=Trino&logoColor=white&color=magenta) |
+| ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=cplusplus&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GitHub-informational?style=for-the-badge&&logo=GitHub&logoColor=white&color=01E8C8) | ![](https://img.shields.io/badge/AS-Analytical_Skills-informational?style=for-the-badge&&logo=futurelearn&logoColor=white&color=magenta) |
+| ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&&logo=HTML5&logoColor=white&color=FD207D) || ![](https://img.shields.io/badge/CT-Critical_Thinking-informational?style=for-the-badge&&logo=codereview&logoColor=white&color=magenta) |
+| ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&&logo=CSS3&logoColor=white&color=FD207D) | | ![](https://img.shields.io/badge/TP-Team_Player-informational?style=for-the-badge&&logo=Draugiem.lv&logoColor=white&color=magenta) |
 
 </div>
 
@@ -39,9 +39,8 @@ Simon</p>
 
 | <div align='center'> ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=black&color=white) </div> | <div align='center'> ![](https://img.shields.io/badge/PyPi-informational?style=for-the-badge&logo=pypi&logoColor=blue&color=white) </div> | <div align='center'> ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=white) </div> |
 | ----- | ----- | ----- |
-| <div align='center'> [scalvaruso](https://github.com/scalvaruso) </div> | <div align='center'> [scalvaruso](https://pypi.org/user/scalvaruso/) </div> | <div align='center'> [scalvaruso](https://www.linkedin.com/in/calvaruso/) </div>
+| <div align='center'> [scalvaruso](https://github.com/scalvaruso) </div> | <div align='center'> [scalvaruso](https://pypi.org/user/scalvaruso/) </div> | <div align='center'> [scalvaruso](https://www.linkedin.com/in/calvaruso/) </div> |
 
 </div>
 
 ---
-
