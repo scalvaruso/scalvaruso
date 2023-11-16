@@ -37,24 +37,10 @@ Simon</p>
 
 <div align='center'>
 
-### Contacts
-
-| <div align='center'> ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=black&color=white) </div> | <div align='center'> ![](https://img.shields.io/badge/PyPi-informational?style=for-the-badge&logo=pypi&logoColor=blue&color=white) </div> | <div align='center'> ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=white) </div> |
-| ----- | ----- | ----- |
-| <div align='center'> [scalvaruso](https://github.com/scalvaruso) </div> | <div align='center'> [scalvaruso](https://pypi.org/user/scalvaruso/) </div> | <div align='center'> [scalvaruso](https://www.linkedin.com/in/calvaruso/) </div> |
-
-</div>
-
----
-
-<div align='center'>
-
-### My PyPi Projects
-
+| <div align='center'> ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=black&color=white) <br> [scalvaruso](https://github.com/scalvaruso) </div> | <div align='center'> ![](https://img.shields.io/badge/PyPi-informational?style=for-the-badge&logo=pypi&logoColor=blue&color=white) <br> [scalvaruso](https://pypi.org/user/scalvaruso/) </div> | <div align='center'> ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=white) <br> [scalvaruso](https://www.linkedin.com/in/calvaruso/) </div> |
+|---|---|---|
 
 |<div align='center'>[![PyPI - Version](https://img.shields.io/pypi/v/borders?logo=python&logoColor=white&label=borders)](https://pypi.org/project/borders/)<br>[![Downloads](https://static.pepy.tech/badge/borders)](https://pepy.tech/project/borders)</div>|<div align='center'>[![PyPI - Version](https://img.shields.io/pypi/v/textlinebreaker?logo=python&logoColor=white&label=textlinebreaker)](https://pypi.org/project/textlinebreaker/)<br>[![Downloads](https://static.pepy.tech/badge/textlinebreaker)](https://pepy.tech/project/textlinebreaker)</div>|
 |---|---|
-
-
 
 </div>
