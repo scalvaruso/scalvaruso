@@ -1,66 +1,115 @@
-<div align='center'>
 
-![scalvaruso banner header](https://raw.githubusercontent.com/scalvaruso/scalvaruso/main/images/scalvaruso.gif)
+<div align="center">
 
-</div>
+![scalvaruso banner header](https://raw.githubusercontent.com/scalvaruso/scalvaruso/main/images/261015-banner.png)
 
-#
-
-<div align='center'>
-
-## Introduction
+# 👋 Hello there!
 
 </div>
 
-### Greetings!
+### I'm **Simon**
 
-#### I'm Simon,
+A passionate **Python Developer and software engineering enthusiast** with a background spanning **retail management and information technology**.
 
-a passionate software engineer with background in retail and information technology. With deep enthusiasm for data science, I am dedicated to advancing the field of information technology through innovative solutions.
+I enjoy creating practical, elegant solutions that simplify workflows, improve productivity, and make software more accessible. My experience in retail leadership has strengthened my analytical thinking, problem-solving abilities, and appreciation for data-driven decision-making.
 
-Completing the "Introduction to Programming with Python" course offered by HarvardX, which further solidified my technical foundation, helped me to secure a place in a coding bootcamp backed by the Department for Education, provided by HyperionDev. During the bootcamp, I had the opportunity to sharpen my skills, particularly in data analysis, solution design, and Python development for industry-standard projects.
+My journey into software development began with HarvardX's **Introduction to Programming with Python**, which helped me secure a place in a Department for Education-backed coding bootcamp delivered by **HyperionDev**. During the programme, I developed my skills in Python programming, data analysis, software design, testing, and debugging while working on practical projects.
 
-My technical proficiency encompasses a range of tools and technologies, including Bootstrap, C++, Cascading Style Sheets (CSS), Dash, Django, Git, GitHub, HTML, JSON, Linux, Microsoft Power BI, Natural Language Processing (NLP), OOP, Plotly, PostgreSQL, Python, Pytest, SQL, Ubuntu, and Visual Studio. I am well-versed in software development methodologies, testing, and debugging techniques.
+Since then, I've continued expanding my technical knowledge through independent learning and open-source development. My experience includes **Python, C++, Django, Dash, Plotly, PostgreSQL, SQL, Power BI, Git, and Linux**, alongside web technologies and software testing tools.
 
-Throughout my journey, I have successfully completed several notable projects. One such project is [Borders](https://github.com/scalvaruso/borders) an open-source Python library that simplifies the creation of borders in Python, enhancing the visualizations of lists and other texts representations. Another project is [Polychromy](https://github.com/scalvaruso/polychromy) a Python library that enables color manipulation of text through functions to print text in specified colors/backgrounds and display color details like Hex and RGB values. Additionally, I have developed programs such as "Inventory" and "Task Manager" to streamline processes and improve productivity.
+Among my projects are three published Python libraries: **Borders**, **Polychromy**, and **TextLineBreaker**. These reflect my interest in reusable software, clean interfaces, and improving the developer experience. I've also developed applications such as **Inventory** and **Task Manager**, designed to simplify everyday operations and improve efficiency.
 
-Aside from my professional endeavours, I am an avid computer programming enthusiast, intrigued by foreign languages and cultures, and fascinated by the world of multimedia and technology.
+Beyond programming, I'm fascinated by **foreign languages, cultures, multimedia, and technology**. I enjoy exploring how creativity and logical thinking can come together to solve real-world problems.
 
-I am now actively seeking a challenging role as a Python/software developer, where I can leverage my extensive experience and newfound knowledge to contribute to innovative projects. Feel free to explore my GitHub repositories and portfolios for a closer look at my work.
-Thank you for your time, and I look forward to connecting with fellow professionals in the industry.
+I'm currently looking for opportunities where I can combine my **software development skills, commercial experience, and analytical mindset** to contribute to meaningful projects, particularly in Python development, data-driven solutions, and technology-focused roles.
 
-Best regards,
-
-Simon
+Feel free to explore my repositories and portfolio to learn more about my work. I'm always happy to connect with fellow developers and professionals who share a passion for technology and continuous learning.
 
 ---
 
-<div align='center'>
+<div align="center">
 
-| <div align='center'> Programming Skills </div> | <div align='center'> VCS </div> | <div align='center'> Soft Skills </div> |
-| ----- | ----- | ----- |
-| ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&&logo=python&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GIT-informational?style=for-the-badge&&logo=Git&logoColor=white&color=01E8C8)  | ![](https://img.shields.io/badge/PS-Problem_Solving-informational?style=for-the-badge&&logo=Trino&logoColor=white&color=magenta) |
-| ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=cplusplus&logoColor=white&color=FD207D) | ![](https://img.shields.io/badge/VCS-GitHub-informational?style=for-the-badge&&logo=GitHub&logoColor=white&color=01E8C8) | ![](https://img.shields.io/badge/AS-Analytical_Skills-informational?style=for-the-badge&&logo=futurelearn&logoColor=white&color=magenta) |
-| ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&&logo=HTML5&logoColor=white&color=FD207D) || ![](https://img.shields.io/badge/CT-Critical_Thinking-informational?style=for-the-badge&&logo=codereview&logoColor=white&color=magenta) |
-| ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&&logo=CSS3&logoColor=white&color=FD207D) | | ![](https://img.shields.io/badge/TP-Team_Player-informational?style=for-the-badge&&logo=Draugiem.lv&logoColor=white&color=magenta) |
+## 🚀 Featured Projects
+
+</div>
+
+### 🖼️ [Borders](https://github.com/scalvaruso/borders)
+
+[![PyPI Version](https://img.shields.io/pypi/v/borders?logo=python&logoColor=white&label=PyPI&color=0b84f3)](https://pypi.org/project/borders/)
+[![Downloads](https://static.pepy.tech/badge/borders)](https://pepy.tech/project/borders)
+
+An open-source Python library for creating **customisable text frames and borders** around lists and other textual content.
+
+Designed to improve the presentation and readability of command-line output, with support for formatting, alignment, and integration with other Python utilities.
+
+### 🎨 [Polychromy](https://github.com/scalvaruso/polychromy)
+
+[![PyPI Version](https://img.shields.io/pypi/v/polychromy?logo=python&logoColor=white&label=PyPI&color=0b84f3)](https://pypi.org/project/polychromy/)
+[![Downloads](https://static.pepy.tech/badge/polychromy)](https://pepy.tech/project/polychromy)
+
+A Python library that simplifies **terminal text colouring and colour manipulation**.
+
+Provides utilities for applying foreground and background colours, formatting terminal output, and working with colour information such as HEX and RGB values.
+
+### 📐 [TextLineBreaker](https://github.com/scalvaruso/textlinebreaker)
+
+[![PyPI Version](https://img.shields.io/pypi/v/textlinebreaker?logo=python&logoColor=white&label=PyPI&color=0b84f3)](https://pypi.org/project/textlinebreaker/)
+[![Downloads](https://static.pepy.tech/badge/textlinebreaker)](https://pepy.tech/project/textlinebreaker)
+
+A lightweight Python library for **splitting, aligning, and formatting text** into readable lines.
+
+Supports configurable widths, multiple alignment options, and reusable formatting functionality, making it useful for command-line applications and other text-based interfaces.
+
+---
+
+<div align="center">
+
+## 💻 Skills Snapshot
+
+### Languages & Web Technologies
+
+![Python](https://img.shields.io/badge/Python-0b84f3?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0b84f3?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0b84f3?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0b84f3?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0b84f3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Frameworks & Libraries
+
+![Django](https://img.shields.io/badge/Django-0b84f3?style=for-the-badge&logo=django&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-0b84f3?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-0b84f3?style=for-the-badge&logo=plotly&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0b84f3?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-0b84f3?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b84f3?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0b84f3?style=for-the-badge&logo=powerbi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-0b84f3?style=for-the-badge&logo=json&logoColor=white)
+
+### Development Tools & Version Control
+
+![Git](https://img.shields.io/badge/Git-01a995?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-01a995?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-01a995?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-01a995?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-01a995?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-<div align='center'>
+<div align="center">
 
-| <div align='center'> ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=black&color=white) <br> [scalvaruso](https://github.com/scalvaruso) </div> | <div align='center'> ![](https://img.shields.io/badge/PyPi-informational?style=for-the-badge&logo=pypi&logoColor=blue&color=white) <br> [scalvaruso](https://pypi.org/user/scalvaruso/) </div> | <div align='center'> ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=white) <br> [scalvaruso](https://www.linkedin.com/in/calvaruso/) </div> |
-|---|---|---|
+## 🌐 Connect with Me
 
-<h2> My Python Packages
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scalvaruso)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/scalvaruso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvaruso/)
 
-<br>
+---
 
-|<div align='center'>[![PyPI - Version](https://img.shields.io/pypi/v/borders?logo=python&logoColor=white&label=borders&color=blue)](https://github.com/scalvaruso/borders) [![Downloads](https://static.pepy.tech/badge/borders)](https://pepy.tech/project/borders)</div>|
-|---|
-|<div align='center'>[![PyPI - Version](https://img.shields.io/pypi/v/polychromy?logo=python&logoColor=white&label=polychromy&color=blue)](https://github.com/scalvaruso/polychromy/) [![Downloads](https://static.pepy.tech/badge/polychromy)](https://pepy.tech/project/polychromy)</div>|
-|<div align='center'>[![PyPI - Version](https://img.shields.io/pypi/v/textlinebreaker?logo=python&logoColor=white&label=textlinebreaker&color=blue)](https://github.com/scalvaruso/textlinebreaker/) [![Downloads](https://static.pepy.tech/badge/textlinebreaker)](https://pepy.tech/project/textlinebreaker)</div>|
-
+✨ *Always curious about code, color, and creativity.* ✨
 
 </div>
